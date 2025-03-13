@@ -1,0 +1,11 @@
+venv/
+
+load logs/
+
+Test Outputs/
+
+__pycache__/
+
+.pytest_cache/
+
+.vscode/
