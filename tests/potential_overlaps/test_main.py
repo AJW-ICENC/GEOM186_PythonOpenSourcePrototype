@@ -13,10 +13,6 @@ an input but this needs to be tested as it may impact scripts later down the lin
 
 Author: Alex Wallage
 
-last amended: AJW 18/02/2025
-
-date: 03/02/2025
-
 v1.0
 
 """
@@ -137,7 +133,7 @@ def main():
         log.info(f"Overlaps for {name} have been generated and autoclassified")
 
     # save output file.
-    overlapsGdf.to_file("G:\\IC-ENC USERS\Alex Wallage\\Gaps and Overlaps Diss\\TrialData\\TestData05022025\\newModelOutput\\overlapsTest.shp")
+    overlapsGdf.to_file("G:\\IC-ENC USERS\\Rory Flynn\\Gaps and Overlaps\\Overlaps_Outputs\\Overlaps_16042025_code.shp")
 
     log.info("Process finsished")
 

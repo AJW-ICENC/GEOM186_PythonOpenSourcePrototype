@@ -7,10 +7,6 @@ so that it can be accessed from the top-level and avoid complex imports.
 
 Author: AJW
 
-last amended: AJW 03/02/2025
-
-date: 03/02/2025
-
 v1.0
 
 """

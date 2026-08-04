@@ -2,14 +2,10 @@
 Autoclassifications Module
 
 This module contains functions for autoclassifying S-57 ENC data limit Overlaps 
-in line with 
+in line with IC-ENC policy
 
 
 Author: Alex Wallage
-
-last amended: AJW 17/02/2025
-
-date: 03/02/2025
 
 v1.0
 
